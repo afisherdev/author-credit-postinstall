@@ -13,7 +13,7 @@ And in your `package.json` add:
 {
   ...
   "scripts": {
-    "postinstall": "author-postinstall"
+    "postinstall": "author-credit-postinstall"
   },
   "credit": {
     "author": {
