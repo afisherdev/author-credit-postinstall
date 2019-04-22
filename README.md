@@ -1,10 +1,10 @@
-# author-postinstall
+# author-credit-postinstall
 Lightweight npm postinstall message to credit the author of a program
 
 ## Installation
 
 ```
-npm install --save author-postinstall
+npm install --save author-credit-postinstall
 ```
 
 And in your `package.json` add: 
