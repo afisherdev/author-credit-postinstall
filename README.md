@@ -1,4 +1,6 @@
+
 # author-credit-postinstall
+
 Lightweight npm postinstall message to credit the author of a program
 
 ## Installation
@@ -35,4 +37,5 @@ In some places (e.g. CI) you may want to disable this output. You can do this by
 
 It will not be shown if npm's log level is set to silent (`--silent`), warn (`--quiet`), or error (`--loglevel error`).
 
+created by Andrew Fisher
 
